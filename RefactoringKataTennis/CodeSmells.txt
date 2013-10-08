@@ -1,0 +1,25 @@
+Some sample code smells
+
+- Lack of tests
+- Name not from domain
+- Name not expressing intent 
+- Unnecessary if
+- Unnecessary else
+- Duplication of constant
+- Method does more than one thing
+- Feature envy
+- Method too long (> 6 lines)
+- Too many parameters (> 3) 
+- Test – not unitary
+- Test – setup too complex 
+- Test – unclear Act
+- Test - more than one assert 
+- Test – no assert
+- Test – too many paths
+
+
+Some usefull links
+
+http://de.wikipedia.org/wiki/Smell_(Programmierung)
+
+http://sourcemaking.com/refactoring
