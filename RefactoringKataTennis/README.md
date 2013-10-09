@@ -1,4 +1,4 @@
-## This are the sources from our Refactoring Coding Dojo at Mayflower GmbH on 08. Oct. 2013
+## These are the sources from our Refactoring Coding Dojo at Mayflower GmbH on 08. Oct. 2013
 
 ## What have we done?
 We used the Tennis Game kata to train our refactoring skills.
@@ -7,7 +7,7 @@ I have added the Jasmine-Tests.
 
 We used TDD and Pair Programming.
 
-## We used this tools
+## We used these tools
 * PHPStorm & jsTestDriver-Plugin
 * Jasmine & Jasmine adapter (which is also in this repo)
 
