@@ -1,1 +1,9 @@
+Plato is a tool for JavaScript source code visualization, static analysis, and complexity analysis.
+
+Get it here:
+
 https://npmjs.org/package/plato
+
+OR
+
+https://github.com/es-analysis/plato
