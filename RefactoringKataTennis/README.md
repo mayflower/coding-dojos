@@ -1,4 +1,4 @@
-# This are the sources from our Refactoring Coding Dojo at Mayflower GmbH on 08. Oct. 2013
+## This are the sources from our Refactoring Coding Dojo at Mayflower GmbH on 08. Oct. 2013
 
 ## What have we done?
 We used the Tennis Game kata to train our refactoring skills.
